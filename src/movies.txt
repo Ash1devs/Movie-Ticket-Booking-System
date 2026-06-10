@@ -1,0 +1,6 @@
+M001|Avengers|Action/Adventure|2h 30m|4.7|Earth's mightiest heroes
+M002|Inception|Fantasy/Adventure|2h 28m|4.5|A thief who steals secrets
+M003|Zootopia 2|Animated/Adventure|1h 55m|4.2|Judy and Nick return
+M004|Chhorii 2|Horror/Thriller|2h 10m|4.3|A terrifying sequel
+M005|Unlocked|Thriller|2h 05m|4.8|A deadly cat and mouse game
+M006|Kabeer|Drama/Action|2h 20m|4.0|An action-packed drama
